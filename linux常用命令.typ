@@ -8,7 +8,6 @@
  - ssh galoisgcl@210.45.79.91
  - scp -r /home/username/Documents/username/username/username username@ 
 
-+ 
 + 提交文件到github
 
   - git add .
@@ -16,6 +15,9 @@
   - git commit -m "提交信息"
 
   - git push
+
++ 删除已经跟踪的pdf文件：
+    - git rm --cached filename.pdf
 
 = Linux 快捷键
 
