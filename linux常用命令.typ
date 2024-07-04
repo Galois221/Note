@@ -5,9 +5,10 @@
 + history | grep cmake : 查看cmake的历史命令
 
 + 传文件到电脑:
+ - ssh galoisgcl@210.45.79.91
  - scp -r /home/username/Documents/username/username/username username@ 
- - ssh 
 
++ 
 + 提交文件到github
 
   - git add .
